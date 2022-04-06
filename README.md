@@ -51,4 +51,12 @@ Kemudian isi file css seperti di atas agar menghasilkan tampilan :
 </br>
 <h2>Pertanyaan dan Tugas</h2>
 <h4>1. Menambahkan layout untuk menu about</h4>
+Script pada file baru about:
+<img width="732" alt="codingper1" src="https://user-images.githubusercontent.com/76044697/161998909-65ea9208-e565-491e-bacd-9a562d5e1bed.PNG">
+Hasil :
+<img width="949" alt="hasilper1" src="https://user-images.githubusercontent.com/76044697/161998953-bec2ec5b-76a2-48c2-9513-8796a31c7eac.PNG">
 <h4>2. Menambahkan layout untuk menu contact</h4>
+Script pada file baru contact :
+<img width="530" alt="codingper2" src="https://user-images.githubusercontent.com/76044697/161999041-20c85835-b27d-4d81-90ed-90233a3c48ee.PNG">
+Hasil :
+<img width="960" alt="hasilper2" src="https://user-images.githubusercontent.com/76044697/161999193-81db63ca-a719-4b30-9726-0a14779414ee.PNG">
