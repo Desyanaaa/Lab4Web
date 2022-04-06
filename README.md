@@ -35,7 +35,7 @@ Kemudian isi file cssnya. Halaman web akan menampilkan :
 <h4>8. Mengatur footer</h4>
 <img width="483" alt="coding8" src="https://user-images.githubusercontent.com/76044697/161897433-215aaa5b-9d0c-48bc-ab92-d0a68338a23a.PNG">
 Refresh browser dan akan menampilkan :
-![image](https://user-images.githubusercontent.com/76044697/161967892-270ac9b3-2f33-48c1-a3ee-2449b86e76e9.png)
+<img width="849" alt="hasil8" src="https://user-images.githubusercontent.com/76044697/161968131-580bca93-12bc-4951-a8ea-3ceb8bc1aafc.PNG">
 <h4>9. Menambahkan elemen pada main content</h4>
 <img width="436" alt="coding9" src="https://user-images.githubusercontent.com/76044697/161897642-84d38ea4-a145-4897-8cd6-24f734b9cc5f.PNG">
 Tambahkan sintaks di atas pada file html.
